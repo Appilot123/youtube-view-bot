@@ -21,7 +21,7 @@ It automates **views, likes, comments, and subscriptions** across 10–1,000+ ac
  - Likes, comments, subs automation  
  - Random act system (Shorts, Trending, Sidebar, Keywords)  
  - Playback controls (duration, quality, speed)  
- - Proxy + fingerprint handling via :contentReference[oaicite:2]{index=2}  
+ - Proxy + fingerprint handling via 
  - Engagement ratio control  
  - Central dashboard with logs and analytics
 
