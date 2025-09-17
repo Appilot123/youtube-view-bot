@@ -7,9 +7,14 @@ Boost views, likes, subscriptions, and comments safely using real-browser automa
   <img src="youtube-view-bot-banner.png" alt="YouTube View Bot — Banner" width="50%">
 </p>
 
-
-[![Join Discord](https://img.shields.io/badge/Join-Discord-5865F2?logo=discord)](https://discord.gg/vBu9huKBvy)
-[![Contact on Telegram](https://img.shields.io/badge/Contact-Telegram-2CA5E0?logo=telegram)](https://t.me/devpilot1)
+<p align="center">
+  <a href="https://discord.gg/vBu9huKBvy">
+    <img src="https://img.shields.io/badge/Join-Discord-5865F2?logo=discord" alt="Join Discord">
+  </a>
+  <a href="https://t.me/devpilot1">
+    <img src="https://img.shields.io/badge/Contact-Telegram-2CA5E0?logo=telegram" alt="Contact on Telegram">
+  </a>
+</p>
 
 ---
 
