@@ -79,7 +79,7 @@ cp .env.example .env
 # Start backend + dashboard
 npm run dev
 ```
-#Contact
+## Contact
 
 - [Join Discord](https://discord.gg/vBu9huKBvy)  
 - [Message on Telegram](https://t.me/devpilot1)
