@@ -37,9 +37,8 @@ It automates **views, likes, comments, and subscriptions** across 10–1,000+ ac
 | 5 | Proxy + fingerprints | One proxy per account with browser containers in Multilogin |
 | 6 | Multi-account scaling | Supports 10–1,000+ accounts with isolated sessions |
 | 7 | Dashboard control | Manage accounts, proxies, schedules, logs, and performance |
-| 8 | View attribution safety | Designed to trigger :contentReference[oaicite:3]{index=3} search/recommended traffic |
-| 9 | Analytics & logs | Real-time reports, session logs, and error screenshots |
-| 10 | Built-in retries | Automatic backoff, error recovery, and session reuse
+| 8 | Analytics & logs | Real-time reports, session logs, and error screenshots |
+| 9 | Built-in retries | Automatic backoff, error recovery, and session reuse
 
 ---
 
@@ -51,15 +50,13 @@ It automates **views, likes, comments, and subscriptions** across 10–1,000+ ac
 ## Performance
 - Runs 10–1,000+ accounts  
 - Human-like dwell behavior with randomized delays  
-- Supports :contentReference[oaicite:12]{index=12} Shorts and Long-form content  
 - Less than 1% block rate using aged accounts and quality proxies
 
 ---
 
 ## Requirements
 - Google Accounts (start with 10)  
-- Residential or Mobile Proxies  
-- :contentReference[oaicite:14]{index=14} license access  
+- Residential or Mobile Proxies   
 - PC or VPS for deployment
 
 ---
@@ -67,7 +64,6 @@ It automates **views, likes, comments, and subscriptions** across 10–1,000+ ac
 ## Installation
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/youtube-view-bot.git
 cd youtube-view-bot
 
 # Install dependencies
