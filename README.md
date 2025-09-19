@@ -59,10 +59,48 @@ It automates **views, likes, comments, and subscriptions** across 10–1,000+ ac
 
 ---
 
+## Dashboard Overview
+
+<p align="center">
+  <img src="youtube-view-bot-dashboard.png" alt="YouTube View Bot — Banner" width="70%">
+</p>
+
+
+## Accounts
+
+<p align="center">
+  <img src="youtube-view-bot-accouts-setup.png" alt="YouTube View Bot — Banner" width="70%">
+</p>
+
+## Proxies 
+
+<p align="center">
+  <img src="youtube-view-bot-proxies.png" alt="YouTube View Bot — Banner" width="70%">
+</p>
+
+## Profiles
+
+<p align="center">
+  <img src="youtube-view-bot-profiles.png" alt="YouTube View Bot — Banner" width="70%">
+</p>
+
+## Automation
+
+<p align="center">
+  <img src="youtube-view-bot-setup.png" alt="YouTube View Bot — Banner" width="70%">
+</p>
+
+## Bulk Automation
+
+<p align="center">
+  <img src="youtube-view-bot-bulk-automation.png" alt="YouTube View Bot — Banner" width="70%">
+</p>
+
 ## Requirements
 - Google Accounts (start with 10)  
 - Residential or Mobile Proxies   
 - PC or VPS for deployment
+
 
 ---
 
@@ -71,15 +109,22 @@ It automates **views, likes, comments, and subscriptions** across 10–1,000+ ac
 # Clone the repository
 cd youtube-view-bot
 
+# Cookies managment 
+Copy and paste your cookies in youtube_cookies.json
+
+> you can use easy cookies manager extention to get the cookies Easily
+
 # Install dependencies
-npm install          # or yarn install
+pip install -r requirements.txt
 
 # Setup environment
 cp .env.example .env
 
 # Start backend + dashboard
-npm run dev
+python youtube_script.py
 ```
+This is simple version, To get Scalable automation system with centerlized Dashboard Contact Us. 
+
 ## Contact
 
 - [Join Discord](https://discord.gg/vBu9huKBvy)  
