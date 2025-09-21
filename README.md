@@ -55,7 +55,7 @@ It automates **views, likes, comments, and subscriptions** across 10–1,000+ ac
 </p>
 
 ## Performance
-- Runs 10–1,000+ accounts  
+- Runs 1–1,000+ accounts  
 - Human-like dwell behavior with randomized delays  
 - Less than 1% block rate using aged accounts and quality proxies
 
